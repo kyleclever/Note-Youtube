@@ -1,6 +1,6 @@
 package basic;
 
-public class FristLab {
+public class A_frist {
 	/*   Comments block
 	 *  I'm new to Java
 	 */
