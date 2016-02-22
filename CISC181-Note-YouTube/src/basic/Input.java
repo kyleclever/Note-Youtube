@@ -1,6 +1,6 @@
 package basic;
 
-import java.util.Scanner;
+import java.util.Scanner;  //****!!!!!!! import java.util.Scanner;
 
 public class Input {
 
@@ -17,7 +17,7 @@ public class Input {
 		double firstnum, secondnum, answer;
 		
 		System.out.println("Enter First number: ");
-		firstnum = bucky.nextDouble();
+		firstnum = bucky.nextDouble();  // variable.nextInt();
 		
 		System.out.println("Enter Second number: ");
 		secondnum = bucky.nextDouble();
