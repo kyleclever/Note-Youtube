@@ -4,7 +4,10 @@ public class A_frist {
 	/*   Comments block
 	 *  I'm new to Java
 	 */
-
+//static variable - shared variable, updated every time
+//static method with static variable, don't have to create new object
+//tuna.getMembers() >>>3
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World");
@@ -26,7 +29,9 @@ public class A_frist {
 		}
 		else // no condition
 			{
-			System.out.println("greater");			
+			System.out.println("greater");		
+			
+			
 		}
 			
 	}

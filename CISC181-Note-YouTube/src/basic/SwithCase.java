@@ -4,7 +4,7 @@ public class SwithCase {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int j = 2; //OR use Sting j = "two"
+		int j = 2; //OR use Sting j = "two"  CANNOT BE DOUBLE
 		switch(j){
 				
 		case 0 : 
@@ -19,6 +19,7 @@ public class SwithCase {
 		case 3 :
 			System.out.println("Vaule is 3");
 			break;
+			
 		default :
 			System.out.println("No Value");
 			break;
